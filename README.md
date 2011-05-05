@@ -1,15 +1,16 @@
 
-                    ------
-        .---.__   < Javiary >
-       /  /6|__\    ------
-       \  \/--`  _/
-       ,) (,
-      //   \\   Aviary FX API for node.js
-     {(     )}
-   =======""===""===============
-       |||||
-        |||
-         |
+                      ------
+          .---.__   < Javiary >
+         /  /6|__\    ------
+         \  \/--`  _/
+         ,) (,
+        //   \\   Aviary FX API for node.js
+       {(     )}
+    ----""---""---------------
+         |||||
+          |||
+           |
+
 # Javiary
 
   A quick and dirty node.js library to access the Aviary FX API. This
