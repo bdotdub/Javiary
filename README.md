@@ -51,6 +51,8 @@ A lot :) The library currently does *NOT* implement the Render
 Options Grid, Render Parameters. Any help would be much appreciated
 (and node.js convention critiques!)
 
+Also, no tests :(
+
 ## Contributors
 
   * Benny Wong ([bdotdub](http://github.com/bdotdub))
